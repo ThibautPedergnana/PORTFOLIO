@@ -1,8 +1,8 @@
-import SportsImg from "../assets/portfolio/sports-results.png";
-import BookingImg from "../assets/portfolio/booking.png";
-import RcplImg from "../assets/portfolio/rcpl.png";
-import HrnetImg from "../assets/portfolio/hrnet.png";
-import GroupomaniaImg from "../assets/portfolio/groupomania.png";
+import SportsImg from "../assets/portfolio/sports-results-img.png";
+import BookingImg from "../assets/portfolio/booking-img.png";
+import RcplImg from "../assets/portfolio/rcpl-img.png";
+import HrnetImg from "../assets/portfolio/hrnet-img.png";
+import GroupomaniaImg from "../assets/portfolio/groupomania-img.png";
 import { useLanguage } from "../hooks/useLanguage";
 import { getTranslation } from "../translations";
 
